@@ -1,9 +1,9 @@
 
-a=int(input("Give the A value:"))
-b=int(input("Give the B value:"))
-print("Addition :",a+b)
-print("Subraction :",a-b)
-print(f"Multiplication : {a*b}")
-print("Divition :",a/b)
-print("Floor Divition :",a//b)
-print(f"Exponential :{a**b}")
+a=int(input("Give the A value:")) # a is a variable store tha A value 
+b=int(input("Give the B value:")) # b is a variable store the B value
+print("Addition :",a+b) # addition of tow values are a and b
+print("Subraction :",a-b) # substraction of tow values are a and b
+print(f"Multiplication : {a*b}") # multiplication of tow values are a and b
+print("Divition :",a/b)  # division of tow values are a and b
+print("Floor Divition :",a//b) # floor division of tow values are a and b
+print(f"Exponential :{a**b}") # exponential of tow values are a and b
